@@ -1,2 +1,2 @@
 # notebook_tutorials
-jupyter notebook tutorial prepared for various student workshops
+jupyter notebook tutorials prepared for various student workshops
