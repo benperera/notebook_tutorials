@@ -8,4 +8,6 @@ scattering_tutorial.ipynb:		bands_all.F4.Tp <br />
 
 These processed data files are compatible with psrchive tools (https://psrchive.sourceforge.net). <br />
 The tutorials use the python interface of psrchive. 
+
+Please contact me (bhakthiperera@gmail.com) to obtain data files!
  
